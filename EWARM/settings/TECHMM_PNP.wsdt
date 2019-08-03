@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>TECHMM_PNP/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1080</ColumnWidth1><ColumnWidth2>288</ColumnWidth2><ColumnWidth3>72</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>202</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Select-Ambiguous-Definitions><ColumnWidth0>517</ColumnWidth0><ColumnWidth1>73</ColumnWidth1><ColumnWidth2>886</ColumnWidth2></Select-Ambiguous-Definitions><TerminalIO/><Find-in-Files><ColumnWidth0>443</ColumnWidth0><ColumnWidth1>73</ColumnWidth1><ColumnWidth2>665</ColumnWidth2><ColumnWidth3>295</ColumnWidth3></Find-in-Files><Debug-Log><ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1442</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-6311-15536</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-7506-890</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab><Tab><Identity>TabID-31139-25274</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-5565-29703</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-17060-15539</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>TECHMM_PNP</ExpandedNode><ExpandedNode>TECHMM_PNP/Application</ExpandedNode><ExpandedNode>TECHMM_PNP/Application/EWARM</ExpandedNode><ExpandedNode>TECHMM_PNP/Application/User</ExpandedNode><ExpandedNode>TECHMM_PNP/Documents</ExpandedNode><ExpandedNode>TECHMM_PNP/Drivers</ExpandedNode><ExpandedNode>TECHMM_PNP/Drivers/CMSIS</ExpandedNode><ExpandedNode>TECHMM_PNP/Middlewares</ExpandedNode><ExpandedNode>TECHMM_PNP/Middlewares/FreeRTOS</ExpandedNode><ExpandedNode>TECHMM_PNP/Middlewares/FreeRTOS/CMSIS_RTOS</ExpandedNode><ExpandedNode>TECHMM_PNP/Middlewares/FreeRTOS/Portable</ExpandedNode><ExpandedNode>TECHMM_PNP/Output</ExpandedNode><ExpandedNode>TECHMM_PNP/bsp</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>342</YPos2><SelStart2>10722</SelStart2><SelEnd2>10722</SelEnd2></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04731E48><key>iaridepm.enu1</key></Toolbar-04731E48></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>680</Bottom><Right>293</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>133333</sizeHorzCX><sizeHorzCY>218103</sizeHorzCY><sizeVertCX>196667</sizeVertCX><sizeVertCY>743730</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>192</Bottom><Right>1502</Right><x>-2</x><y>-2</y><xscreen>1504</xscreen><yscreen>194</yscreen><sizeHorzCX>1002667</sizeHorzCX><sizeHorzCY>211559</sizeHorzCY><sizeVertCX>133333</sizeVertCX><sizeVertCY>218103</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
